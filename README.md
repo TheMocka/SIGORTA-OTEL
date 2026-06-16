@@ -1,1 +1,1 @@
-# S-GORTA-OTEL
+# SİGORTA-OTEL
